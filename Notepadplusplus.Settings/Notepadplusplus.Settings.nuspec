@@ -32,7 +32,7 @@ To get your theme copied, you must drop your current theme file into the directo
     <copyright></copyright>
     <licenseUrl>http://www.wtfpl.net</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/JCapriotti/chocolatey/master/Notepadplusplus.Settings/Notepadplusplus.Settings.ico</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/JCapriotti/chocolatey@master/Notepadplusplus.Settings/Notepadplusplus.Settings.ico</iconUrl>
     <releaseNotes>
 		20141027 - Had a bug due to a rogue space, cleaning up error messaging.
 		20141015 - Fixing issue with incorrect Program Files path on 32-bit systems. 

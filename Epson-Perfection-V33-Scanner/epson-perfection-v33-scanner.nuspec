@@ -13,7 +13,7 @@
 		<copyright></copyright>
 		<licenseUrl>https://epson.com/SoftwareLicenseAgreement</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<iconUrl>https://cdn.rawgit.com/JCapriotti/chocolatey/master/Epson-Perfection-V33-Scanner/icon128.png</iconUrl>
+		<iconUrl>https://cdn.jsdelivr.net/gh/JCapriotti/chocolatey@master/Epson-Perfection-V33-Scanner/icon128.png</iconUrl>
 		<packageSourceUrl>https://github.com/JCapriotti/chocolatey-packages/tree/master/Epson-Perfection-V33-Scanner</packageSourceUrl>
 		<releaseNotes>https://github.com/JCapriotti/chocolatey-packages/tree/master/Epson-Perfection-V33-Scanner/README.md#release-notes</releaseNotes>
 	</metadata>

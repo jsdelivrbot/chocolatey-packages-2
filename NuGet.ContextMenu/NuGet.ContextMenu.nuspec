@@ -14,7 +14,7 @@
     <copyright></copyright>
     <licenseUrl>http://www.wtfpl.net</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/JCapriotti/chocolatey/master/ConsoleZ.Settings/ConsoleZ.Settings.ico</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/JCapriotti/chocolatey@master/ConsoleZ.Settings/ConsoleZ.Settings.ico</iconUrl>
     <releaseNotes>
 	</releaseNotes>
   </metadata>

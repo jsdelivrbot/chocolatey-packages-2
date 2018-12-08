@@ -20,7 +20,7 @@ I recommend using the -Force flag for subsequent settings updates.
     <copyright></copyright>
     <licenseUrl>http://www.wtfpl.net</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/JCapriotti/chocolatey/master/ConsoleZ.Settings/ConsoleZ.Settings.ico</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/JCapriotti/chocolatey@master/ConsoleZ.Settings/ConsoleZ.Settings.ico</iconUrl>
     <releaseNotes>
 	1.0.0.20141027 - Fixed issue where file fails to copy if the folder doesn't already exist. Changed warning to a failure when URL is not specified.
 	1.0.0.20141004 - Tweaked description and added an icon.
